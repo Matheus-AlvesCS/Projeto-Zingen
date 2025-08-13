@@ -14,12 +14,13 @@ section {
     }
 
     & h2 {
-      margin-block: 0.5rem;
+      margin-top: 0.5rem;
     }
   }
 
   & p {
     color: var(--text-color-secondary);
+    margin-top: 0.5rem;
   }
 }
 
